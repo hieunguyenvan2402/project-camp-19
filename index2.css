@@ -1,0 +1,256 @@
+body,
+html,
+.signIn {
+height: 100%;
+font-family: lato;
+}
+
+.sign_in_content {
+    width : 400px
+}
+
+h1{
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #4f4f4f;
+    font-weight: 400 ;
+    margin : 0;
+    margin-bottom: 8px;
+
+}
+
+span{
+    font-style: normal;
+    font-weight: 500 ;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color :#828282;
+    display: block;
+
+}
+
+#sign_in_form {
+    background: #ffffff;
+    box-shadow: 0px 2px 16px rgba(0,0,0,0.16);
+    border-radius: 16px;
+    padding: 40px;
+    margin-top: 40px;
+}
+
+label {
+    font-size: 16px;
+    line-height: 130%;
+    color: #4f4f4f;
+    margin-bottom:8px;
+    display:block;
+}
+
+
+input{
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
+    box-sizing:border-box;
+    border-radius:4px ;
+    height:53px;
+    padding: 16px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    margin-bottom:24px;
+
+}
+input::placeholder {
+    color:#bdbdbd;
+}
+
+button {
+    background: #35ce97;
+    border: 1px solid #35ce97;
+    box-sizing: border-box;
+    border-radius: 88px;
+    height: 56px;
+    font-size: 20px;
+    line-height: 24px;
+    color:white
+}
+
+#error_message {
+    color:red;
+    margin: 0;
+    margin-bottom:24px;
+}
+
+.upload {
+height: 100%;
+font-family: lato;
+}
+
+
+
+h3{
+    font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+text-align: center;
+/* Gray 3 */
+color: #828282;
+}
+
+
+.emotion_form {
+    background: #FFFFFF;
+/* idle */
+ box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.16);
+border-radius: 16px;
+padding: 16px;
+margin-bottom:40px;
+}
+
+input[name=emotion] {
+    width :auto;
+    height :auto;
+    margin:0;
+    margin-top: auto;
+    border: 2px solid #BDBDBD;
+box-sizing: border-box;
+
+}
+
+#label_heartbroken{
+    color: #51A4E0;
+}
+
+#label_shocked{
+    color: #A36ABE;
+}
+
+#label_angry{
+    color: #EB5757;
+}
+
+#label_onthebound{
+    color: #F2994A;
+}
+
+#label_betterthanever{
+    color: #4ED4A4;
+}
+
+
+
+.upload_info {
+    background: #FFFFFF;
+/* idle */
+box-shadow: 0px 2px 16px rgba(0, 0, 0, 0.16);
+border-radius: 16px;
+margin-bottom: 40px;
+padding: 61px;
+margin-bottom:40px;
+}
+
+
+ label{
+font-family: Lato;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+/* Gray 2 */
+color: #4F4F4F;
+margin-top: 40px;
+margin-bottom: 8px;
+}
+
+#title {
+    background: #FFFFFF;
+/* Gray 5 */
+border: 1px solid #E0E0E0;
+box-sizing: border-box;
+border-radius: 4px;
+padding: 16px;
+margin-bottom :4px;
+}
+
+#characters{
+    font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 130%;
+/* or 21px */
+/* Red */
+color: #EB5757;
+}
+
+label{
+    font-family: Lato;
+    font-size: 16px;
+    line-height: 130%;
+    /* or 21px */
+    /* Gray 2 */
+    color: #4F4F4F;
+margin-bottom :11px;
+}
+#photo1{
+    width: 110px;
+    height: 110px;
+    background: url();
+    border-radius: 4px;
+    margin-right:16px;
+}
+
+#photo2{
+    width: 110px;
+    height: 110px;
+    background: url();
+    border-radius: 4px;
+    margin-right:16px;
+}
+
+#photo3{
+    width: 110px;
+    height: 110px;
+    background: url();
+    border-radius: 4px;
+}
+
+
+.input1 {
+    background: #FFFFFF;
+/* Gray 5 */
+
+border: 1px solid #E0E0E0;
+box-sizing: border-box;
+border-radius: 4px;
+margin-bottom:11px;
+padding: 16px;
+
+}
+
+
+
+.input[name=input_2] {
+    background: #FFFFFF;
+/* Gray 5 */
+
+border: 1px solid #E0E0E0;
+box-sizing: border-box;
+border-radius: 4px;
+margin-bottom:11px;
+padding: 16px;
+width: 362px;
+height: 107px;
+}
+
+
+
+
+
+
+
